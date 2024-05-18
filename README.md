@@ -14,3 +14,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 ➡[Basic CRUD - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Basic%20CRUD%20-%20Exercise)
 
 ➡[Built-in Functions - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Built-in%20Functions%20-%20Lab)
+
+➡[Built-in Functions - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Built-in%20Functions%20-%20Exercise)

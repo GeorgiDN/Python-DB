@@ -16,3 +16,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 ➡[Built-in Functions - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Built-in%20Functions%20-%20Lab)
 
 ➡[Built-in Functions - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Built-in%20Functions%20-%20Exercise)
+
+➡[Data Aggregation - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Data%20Aggregation%20-%20Lab)

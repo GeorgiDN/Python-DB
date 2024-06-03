@@ -22,3 +22,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 ➡[Data Aggregation - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Data%20Aggregation%20-%20Exercise)
 
 ➡[Table Relations - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Table%20Relations%20-%20Lab)
+
+➡[Table Relations - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Table%20Relations%20-%20Exercise)

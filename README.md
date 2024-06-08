@@ -24,3 +24,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 ➡[Table Relations - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Table%20Relations%20-%20Lab)
 
 ➡[Table Relations - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Table%20Relations%20-%20Exercise)
+
+➡[Subqueries and JOINs - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Subqueries%20and%20JOINs%20-%20Lab)

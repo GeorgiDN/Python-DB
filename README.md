@@ -28,3 +28,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 ➡[Subqueries and JOINs - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Subqueries%20and%20JOINs%20-%20Lab)
 
 ➡[Subqueries and JOINs - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Subqueries%20and%20JOINs%20-%20Exercise)
+
+➡[Database Programmability - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Database%20Programmability%20-%20Lab)

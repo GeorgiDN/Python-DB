@@ -31,4 +31,6 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 
 ➡[Database Programmability - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Database%20Programmability%20-%20Lab)
 
-➡[Database Programmability - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Database%20Programmability%20-%20Exercise)
+➡[Database Programmability - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL)
+
+➡[Past Exams](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Past_Exams/Exam%20Preparation%20I)

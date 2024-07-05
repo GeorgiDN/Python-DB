@@ -3,7 +3,7 @@ In this repository there are solutions to tasks from the Python DB course of the
 
 In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Relational Mapping) tools for handling databases with Python is acquired.
 
-## Table of contents
+## Table of contents - PostgreSQL
 
 ➡[Data Types and Table Basics - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Data%20Types%20and%20Table%20Basics%20-%20Lab)
 
@@ -34,3 +34,9 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 ➡[Database Programmability - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Database%20Programmability%20-%20Exercise)
 
 ➡[Past Exams](https://github.com/GeorgiDN/Python-DB/tree/main/01_PostgreSQL/Past_Exams)
+
+
+
+## Table of contents - Python ORM
+
+

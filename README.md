@@ -38,5 +38,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 
 
 ## Table of contents - Python ORM
-
+➡[Django Models Basics - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/4.Django%20Models%20Basics%20-%20Lab)
 

@@ -46,4 +46,6 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 
 ➡[Migrations and Django Admin - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/7.Migrations%20and%20Django%20Admin%20-%20Exercise)
 
+➡[Data Operations in Django with Queries - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/8.Data%20Operations%20in%20Django%20with%20Queries%20-%20Lab)
+
 

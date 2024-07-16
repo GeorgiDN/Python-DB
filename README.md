@@ -52,4 +52,6 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 
 ➡[Working with Queries in Django - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/10.Working%20with%20Queries%20in%20Django%20-%20Lab)
 
+➡[Working with Queries in Django - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/11.Working%20with%20Queries%20in%20Django%20-%20Exercise)
+
 

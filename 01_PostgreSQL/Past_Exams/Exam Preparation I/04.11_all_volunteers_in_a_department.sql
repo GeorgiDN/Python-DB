@@ -14,15 +14,35 @@ END;
 $$
 LANGUAGE plpgsql;
 
---
+
 -- SELECT fn_get_volunteers_count_from_department('Education program assistant')
 -- SELECT fn_get_volunteers_count_from_department('Guest engagement')
 -- SELECT fn_get_volunteers_count_from_department('Zoo events')
 
 
 
+-------------------------------------------------------------------------------------------------------------
+-- CREATE OR REPLACE FUNCTION fn_get_volunteers_count_from_department(
+--     IN searched_volunteers_department VARCHAR (30),
+--     OUT count_volunteers INT
+-- )
+-- AS
+-- $$
+-- BEGIN
+--     SELECT COUNT(v.id)
+--     FROM volunteers_departments AS vd
+--     JOIN volunteers AS v
+--     ON vd.id = v.department_id
+--     WHERE department_name LIKE searched_volunteers_department
+--     INTO count_volunteers;
+-- END;
+-- $$
+-- LANGUAGE plpgsql;
 
 
+
+
+---------------------------------------------------------------------------------------------
 -- CREATE OR REPLACE FUNCTION fn_get_volunteers_count_from_department(
 -- 	searched_volunteers_department VARCHAR(30))
 -- 	RETURNS INT
@@ -44,19 +64,14 @@ LANGUAGE plpgsql;
 -- END
 -- $$
 -- LANGUAGE plpgsql;
-;
-
-
-
-
--- SELECT fn_get_volunteers_count_from_department('Education program assistant')
--- SELECT fn_get_volunteers_count_from_department('Guest engagement')
--- SELECT fn_get_volunteers_count_from_department('Zoo events')
 
 
 
 
 
+
+
+-------------------------------------------------------------------------------------------------------------
 -- CREATE OR REPLACE FUNCTION fn_get_volunteers_count_from_department(
 --     searched_volunteers_department VARCHAR(30)
 -- )
@@ -82,8 +97,3 @@ LANGUAGE plpgsql;
 -- END;
 -- $$
 -- LANGUAGE plpgsql;
-
-
--- SELECT fn_get_volunteers_count_from_department('Education program assistant');
--- SELECT fn_get_volunteers_count_from_department('Guest engagement');
--- SELECT fn_get_volunteers_count_from_department('Zoo events');

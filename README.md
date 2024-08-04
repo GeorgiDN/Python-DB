@@ -58,4 +58,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 
 ➡[Django Models Relations - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/13.Django%20Models%20Relations%20-%20Exercise)
 
+➡[Models Inheritance and Customization - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/14.Models%20Inheritance%20and%20Customization%20-%20Lab)
 

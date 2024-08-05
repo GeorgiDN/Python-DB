@@ -60,3 +60,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 
 ➡[Models Inheritance and Customization - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/14.Models%20Inheritance%20and%20Customization%20-%20Lab)
 
+➡[Models Inheritance and Customization - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/15.Models%20Inheritance%20and%20Customization%20-%20Exercise)
+

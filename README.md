@@ -67,3 +67,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 ➡[Advanced Django Model Techniques - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/17.Advanced%20Django%20Model%20Techniques%20-%20Exercise)
 
 ➡[Advanced Queries in Django - Lab](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/18.Advanced%20Queries%20in%20Django%20-%20Lab)
+
+➡[Advanced Queries in Django - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/19.Advanced%20Queries%20in%20Django%20-%20Exercise)

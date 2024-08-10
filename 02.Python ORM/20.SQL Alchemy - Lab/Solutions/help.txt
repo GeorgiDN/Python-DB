@@ -1,0 +1,12 @@
+create table:
+alembic revision --autogenerate -m "Add User Table"
+
+when in the model row "# Base.metadata.create_all(engine)" is in comment
+migration file automatically written
+
+reverse one step:
+alembic downgrade -1
+
+apply migration, create table, and write in the alembic_version table
+revision:
+alembic upgrade head

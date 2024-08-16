@@ -75,3 +75,5 @@ In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Re
 ➡[SQL Alchemy - Exercise](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/21.SQL%20Alchemy%20-%20Exercise)
 
 ➡[Workshop - Simple Django Project](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/Workshop%20-%20Simple%20Django%20Project/fruitipediaApp)
+
+➡[Past Exams](https://github.com/GeorgiDN/Python-DB/tree/main/02.Python%20ORM/Past%20Exams)

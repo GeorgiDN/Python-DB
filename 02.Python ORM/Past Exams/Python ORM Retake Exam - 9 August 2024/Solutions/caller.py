@@ -76,8 +76,12 @@ def update_dragons_data():
         dragon.power -= Decimal("0.1")
         dragon.is_healthy = True
         dragon.save()
-
-    injured_dragons.update(power=F("power") - 0.1)
+    
+    # num_of_dragons_affected = injured_dragons.update(
+    #     power=F('power') - 0.1,
+    #     is_healthy=True
+    # )
+    
     min_power = Dragon.objects.aggregate(min_power=Min("power"))["min_power"]
 
     return (f"The data for {num_of_dragons_affected} dragon/s has been changed. "

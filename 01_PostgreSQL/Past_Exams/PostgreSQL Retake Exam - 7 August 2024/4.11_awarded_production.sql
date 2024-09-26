@@ -13,7 +13,7 @@ BEGIN
         FROM
             productions_actors AS pa
         JOIN
-                productions AS p
+            productions AS p
         ON
             pa.production_id = p.id
         WHERE

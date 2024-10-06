@@ -6,9 +6,9 @@ SELECT
 FROM
     countries
 WHERE
-    continent LIKE 'South America'
+    continent = 'South America'
 AND
-    (currency LIKE 'P%' or currency LIKE 'U%')
+    (currency LIKE 'P%' OR currency LIKE 'U%')
 ORDER BY
     currency DESC,
     id;

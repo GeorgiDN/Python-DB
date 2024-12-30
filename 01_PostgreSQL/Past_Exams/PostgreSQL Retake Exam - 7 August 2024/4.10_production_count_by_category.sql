@@ -1,17 +1,21 @@
-DROP FUNCTION IF EXISTS udf_category_productions_coun;
-CREATE FUNCTION udf_category_productions_count(
+CREATE OR REPLACE FUNCTION udf_category_productions_count(
     IN category_name VARCHAR(50),
-    OUT curr_message varchar(50)
+    OUT result VARCHAR(50)
 ) AS
 $$
 BEGIN
     SELECT
-        CONCAT('Found', ' ', COUNT(cp.category_id), ' ', 'productions.')
-    FROM categories AS c
-    LEFT JOIN categories_productions AS cp
-    ON c.id = cp.category_id
-    WHERE category_name LIKE c.name
-    INTO curr_message;
+        CONCAT('Found', ' ', COUNT(cp.production_id), ' ',  'productions.')
+    FROM
+        categories AS c
+    JOIN
+        categories_productions AS cp
+    ON
+        c.id = cp.category_id
+    WHERE
+        c.name LIKE category_name
+    INTO
+        result;
 END;
 $$
 LANGUAGE plpgsql;

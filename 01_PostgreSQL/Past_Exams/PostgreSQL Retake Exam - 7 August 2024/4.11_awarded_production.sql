@@ -1,8 +1,7 @@
 DROP PROCEDURE IF EXISTS udp_awarded_production;
-CREATE PROCEDURE udp_awarded_production(
-    IN production_title VARCHAR(70)
-)
-AS
+CREATE OR REPLACE PROCEDURE udp_awarded_production(
+    production_title VARCHAR(70)
+) AS
 $$
 BEGIN
     UPDATE actors
@@ -17,8 +16,7 @@ BEGIN
         ON
             pa.production_id = p.id
         WHERE
-            p.title = production_title
-    );
+            production_title LIKE p.title);
 END;
 $$
 LANGUAGE plpgsql;

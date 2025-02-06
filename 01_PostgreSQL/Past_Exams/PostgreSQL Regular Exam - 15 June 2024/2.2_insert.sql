@@ -4,5 +4,8 @@ INSERT INTO addresses(street, town, country, account_id)
      password,
      ip,
      age
- FROM accounts
- WHERE gender LIKE 'F')
+FROM
+    accounts
+WHERE
+    gender LIKE 'F'
+);

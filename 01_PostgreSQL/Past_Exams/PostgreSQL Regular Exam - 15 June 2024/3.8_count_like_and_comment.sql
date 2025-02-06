@@ -1,12 +1,13 @@
-WITH likes_count AS (
-    SELECT
-        photo_id,
-        COUNT(id) AS likes_count
-    FROM
-        likes
-    GROUP BY
-        photo_id
-),
+WITH
+    likes_count AS (
+        SELECT
+            photo_id,
+            COUNT(id) AS likes_count
+       FROM
+           likes
+       GROUP BY
+           photo_id
+    ),
 comments_count AS (
     SELECT
         photo_id,
@@ -33,7 +34,9 @@ ON
 ORDER BY
     likes_count DESC,
     comments_count DESC,
-    p.id;
+    photo_id
+;
+
 
 
 
